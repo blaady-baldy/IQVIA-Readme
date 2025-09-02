@@ -28,7 +28,7 @@ Inside the SharePoint folder, you will find:
   1. Click the **Sync** button on the SharePoint folder page to sync it with your OneDrive.
   2. Once synced, the folder will appear in your OneDrive directory like this:
 
-     (UploadedImage1.jpg)
+ [UploadedImage1](https://github.com/user-attachments/assets/406e4518-c4fc-48af-abda-e7cd12f03218)
 
   3. Open this synced folder and **copy all contents** from the **02 Web Scraping Codebase** into a **separate working folder** on your system.
 
