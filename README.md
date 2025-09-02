@@ -34,7 +34,8 @@ Inside the SharePoint folder, you will find:
 
 ## 🛠️ Setup Instructions
 
-1. Note down the path where the folder is synced to OneDrive. It will look like:
+1. Note down the path where the folder is synced to OneDrive. It will look like: 
+**C:\Users\u1201048\OneDrive - IQVIA\Commercial Effectiveness - UK HCP Targeting\3. Webscraping Collateral**
 2. Open the file **Install_requirements.py** with Visual Studio Code.
 3. In the terminal, run the following command to install all dependencies: 
 ``` python Install_requirements.py ```
